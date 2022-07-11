@@ -1,0 +1,115 @@
+body {
+font-family: 'Noto Sans Oriya', sans-serif;
+font-size: 1.5rem;
+}
+#title{
+  background-color: green;
+  padding: 50%, 50%;
+  color: white;
+
+}
+.slogan{
+  font-size: 2.5rem;
+
+  line-height: 1.5;
+  font-weight: 100;
+  text-align: left;
+}
+h2{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 100;
+  text-align: center;
+}
+
+h3{
+  font-weight: 700;
+}
+
+
+
+
+
+
+
+.icon{
+  margin-bottom: 1rem;
+  color: lightgreen;
+}
+
+.icon:hover{
+  color: green;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+padding:0 0 4.5rem;
+}
+
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  /* font-size: 1rem; */
+  font-weight: 400;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight:700;
+}
+
+.tittle-button{
+  margin: 5% 5% 5% 0;
+}
+
+.tittle-image{
+  width: 100%;
+  /* transform: rotate(45deg); */
+}
+
+#features{
+padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+  font-family: 'Noto Sans Oriya', sans-serif;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: green;
+  color: #fff;
+}
+.testimonials-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 3% 15%;
+}
+.card-img-top{
+  width: 90%;
+    height: 180px;
+    align-self: center;
+}
+#CallToAction{
+  padding: 7% 15%;
+  background-color: green;
+  text-align: center;
+  color: white;
+  margin-top: 15%;
+}
+.CallToAction{
+  font-weight: 100;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
